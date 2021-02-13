@@ -88,11 +88,6 @@ Worried about whether you will be able to run your tools and games that are said
 * [Gitea](https://gitea.io/) (open source)
 * [Bitbucket](https://bitbucket.org/) (not open source)
 
-## Alternative lists
-
-* side panel of https://www.reddit.com/r/degoogle/
-* https://switching.software/
-
 -----
 
 Ironically enough, this list is hosted on the proprietary GitHub, a service owned by Microsoft. For most people it is nowadays hardly possible to escape *all* of the big tech company services. Most of us still carry a phone around that almost always runs either Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire.  
@@ -105,3 +100,10 @@ Although this document only mentions the three classic examples Google, Facebook
 
 2. <span id="f2"></span>
 The discouraging ending "but don't particularly advertise privacy" isn't supposed to mean that this service is strictly to be avoided. As mentioned at the start of the document, it contributes to and serves the competition.
+
+### Alternative lists
+
+* [r/degoogle Wiki](https://www.reddit.com/r/degoogle/wiki/index)
+* [switching.software](https://switching.software/)
+* [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives)
+* [Awesome Privacy](https://github.com/paulaime/Awesome-Privacy)
