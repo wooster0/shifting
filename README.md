@@ -20,6 +20,7 @@ This list starts with a popular service and then lists alternatives to it.
 ## YouTube (video platforms):
 
 * [Invidious](https://invidio.us) (select an instance): the same videos as YouTube but with privacy.
+* [Odysee](https://odysee.com) or [lbry.tv](https://lbry.tv): open source and with reposts from YouTube.
 * [PeerTube](https://joinpeertube.org/instances#instances-list) (select an instance)
 * There are others but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
    * Multilingual: [Dailymotion](https://www.dailymotion.com)
@@ -68,7 +69,7 @@ This list starts with a popular service and then lists alternatives to it.
 * [F-Droid](https://f-droid.org)
 * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
 
-&emsp;But have you ever wanted to play the newest games from Japan that are unavailable in your region?<br>
+&emsp;Also, have you ever wanted to play the newest games from Japan that are unavailable in your region?<br>
 &emsp;These APK stores make it possible but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
 
 * [APKPure](https://apkpure.com)
