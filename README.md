@@ -47,7 +47,13 @@ This list starts with a popular service and then lists alternatives to it.
 
 * [Signal](https://www.signal.org) (open source)
 * [Threema](https://threema.ch) (open source)
+* [Wickr](https://wickr.com) (not open source)
 * [Telegram](https://telegram.org) (not open source)
+
+## Facebook (social media):
+
+* [Mastodon](https://joinmastodon.org)
+* [Minds](https://www.minds.com) 
 
 ## Google Translate (translators):
 
