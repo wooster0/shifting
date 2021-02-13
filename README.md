@@ -89,10 +89,11 @@ This list starts with a popular service and then lists alternatives to it.
 &emsp;Alongside that and many other things you can enjoy almost never having to restart your computer for updates<br>
 &emsp;again. Welcome to the new age of operating systems.
 
-* A Linux distribution, such as:
+* A Linux distribution, such as for example:
    * [Pop!\_OS](https://pop.system76.com)
    * [Manjaro](https://manjaro.org)
    * [MX Linux](https://mxlinux.org)
+   * [Mint](https://linuxmint.com)
    * [Ubuntu](https://ubuntu.com)
    * Others: see the list on the right on [https://distrowatch.com/](https://distrowatch.com).
 
