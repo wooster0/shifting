@@ -56,11 +56,10 @@ This list starts with a popular service and then lists alternatives to it.
 ## Chrome (browsers):
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/browsers)
-* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) (for mobile)
+* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) (for mobile, Chromium-based)
 * [Tor](https://www.torproject.org)
-* [Brave](https://brave.com)
-* [Bromite](https://www.bromite.org) (for Android)
-* [ungoogled-chromium](https://ungoogled-software.github.io)
+* [Brave](https://brave.com) (Chromium-based)
+* [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium#downloads) (Chromium-based)
 
 ## Google Play (app stores):
 
