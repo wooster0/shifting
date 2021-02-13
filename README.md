@@ -56,11 +56,16 @@ All of these offer more natural and accurate translations but don't particularly
 * [Firefox](https://www.mozilla.org/en-US/firefox/browsers/)
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app/) (for mobile)
 * [Tor](https://www.torproject.org/)
+* [Bromite](https://www.bromite.org/) (for Android)
 * [Brave](https://brave.com/)
+* [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)
 
 ## Google Play (app stores):
 
-Ever wanted to play the newest games from Japan and other countries that are unavailable in your region? These APK stores make it possible but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
+* [F-Droid](https://f-droid.org/)
+* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
+
+But have you ever wanted to play the newest games from Japan and other countries that are unavailable in your region? These APK stores make it possible but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
 
 * [APKPure](https://apkpure.com/)
 * [APKMirror](https://www.apkmirror.com/)
@@ -68,6 +73,7 @@ Ever wanted to play the newest games from Japan and other countries that are una
 ## Google Drive (file storage services):
 
 * [Sync](https://www.sync.com/)
+* [Nextcloud](https://nextcloud.com/)
 * [Tresorit](https://tresorit.com/)
 * [Box](https://www.box.com/)
 
