@@ -82,13 +82,14 @@ Worried about whether you will be able to run your tools and games that are said
 
 ## GitHub (code hosting platforms):
 
-* [GitLab](https://about.gitlab.com/)
-* [Gitea](https://gitea.io/)
+* [GitLab](https://about.gitlab.com/) (open source)
+* [Gitea](https://gitea.io/) (open source)
+* [Bitbucket](https://bitbucket.org/) (not open source)
 
 -----
 
-Ironically enough, this list is hosted on GitHub, a service owned by Microsoft. For most people it is nowadays hardly possible to escape *all* of the big tech company services. Most of us still carry a phone around that almost always runs either Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire.  
-But that doesn't mean we can't do anything at all. We can still de-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) our lives to some degree. The listed types of services are the most common and they are starting point of where we should begin to shift.
+Ironically enough, this list is hosted on the proprietary GitHub, a service owned by Microsoft. For most people it is nowadays hardly possible to escape *all* of the big tech company services. Most of us still carry a phone around that almost always runs either Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire.  
+But that doesn't mean we can't do anything at all. We can still de-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) our lives to some degree. The types of services listed on the top are the most common and they are starting point of where we should begin to shift.
 
 ### Footnotes
 
