@@ -19,7 +19,9 @@ This list starts with a popular service and then lists alternatives to it.
 
 ## YouTube (video platforms):
 
-* [Invidious](https://invidio.us) (select an instance): the same videos as YouTube but with privacy.
+<!--replace the link with https://invidious.io/ once the site is ready (see https://github.com/iv-org/invidious/issues/1694)-->
+* [Invidious](https://invidio.us) (not dead, select an instance): alternative front-end to YouTube with the same videos.
+* [NewPipe](https://newpipe.net/) (for Android): alternative front-end to YouTube with the same videos.
 * [Odysee](https://odysee.com) or [lbry.tv](https://lbry.tv): open source and with reposts from YouTube.
 * [PeerTube](https://joinpeertube.org/instances#instances-list) (select an instance)
 * There are others but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
@@ -85,7 +87,7 @@ This list starts with a popular service and then lists alternatives to it.
 ## Windows (operating systems):
 
 &emsp;Worried about whether you will be able to run your tools and games that are said to be Windows-exclusive?<br>
-&emsp;You might be surprised but support is pretty good.<br>
+&emsp;You might be surprised but through [WINE](https://www.winehq.org), [Proton](https://www.protondb.com) and other things support has become pretty good.<br>
 &emsp;Alongside that and many other things you can enjoy almost never having to restart your computer for updates<br>
 &emsp;again. Welcome to the new age of operating systems.
 
