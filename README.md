@@ -80,6 +80,11 @@ Worried about whether you will be able to run your tools and games that are said
    * [Ubuntu](https://ubuntu.com/)
    * Others: see the list on the right on [https://distrowatch.com/](https://distrowatch.com/).
 
+## GitHub (code hosting platforms):
+
+* [GitLab](https://about.gitlab.com/)
+* [Gitea](https://gitea.io/)
+
 -----
 
 Ironically enough, this list is hosted on GitHub, a service owned by Microsoft. For most people it is nowadays hardly possible to escape *all* of the big tech company services. Most of us still carry a phone around that almost always runs either Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire.  
