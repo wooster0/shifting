@@ -88,6 +88,11 @@ Worried about whether you will be able to run your tools and games that are said
 * [Gitea](https://gitea.io/) (open source)
 * [Bitbucket](https://bitbucket.org/) (not open source)
 
+## Alternative lists
+
+* side panel of https://www.reddit.com/r/degoogle/
+* https://switching.software/
+
 -----
 
 Ironically enough, this list is hosted on the proprietary GitHub, a service owned by Microsoft. For most people it is nowadays hardly possible to escape *all* of the big tech company services. Most of us still carry a phone around that almost always runs either Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire.  
