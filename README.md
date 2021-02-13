@@ -69,7 +69,7 @@ This list starts with a popular service and then lists alternatives to it.
 * [F-Droid](https://f-droid.org/)
 * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
 
-&emsp;But have you ever wanted to play the newest games from Japan and other countries that are unavailable in your region?<br>
+&emsp;But have you ever wanted to play the newest games from Japan that are unavailable in your region?<br>
 &emsp;These APK stores make it possible but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
 
 * [APKPure](https://apkpure.com/)
