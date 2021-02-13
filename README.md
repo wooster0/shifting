@@ -1,6 +1,6 @@
 *[GitLab version](https://gitlab.com/r00ster91/shifting)*
 
-Even nowadays I have the feeling there is many people who might want to give other non-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) services a try but simply don't know what else to use. You might be surprised but there is a good quantity of alternatives to pretty much all of Google/Facebook/Microsoft[<sup>[1]</sup>](#f1)'s services. Aside from the better privacy, not only are these alternatives good, they are often even better. I finally had to publish this list of services that I think more people should know about.
+I have the feeling there is even nowadays many people who might want to give other non-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) services a try but simply don't know what else to use. You might be surprised but there is a good quantity of alternatives to pretty much all of Google/Facebook/Microsoft[<sup>[1]</sup>](#f1)'s services. Aside from the better privacy, not only are these alternatives good, they are often even better. I finally had to publish this list of services that I think more people should know about.
 
 This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, it's for the purpose of supporting the competition. More competition means a wider variety of services to choose from. A wider spectrum of tools with perhaps one feature better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users. We need regulation. Don't you agree they are rich enough?
 
@@ -86,8 +86,8 @@ This list starts with a popular service and then lists alternatives to it.
 
 &emsp;Worried about whether you will be able to run your tools and games that are said to be Windows-exclusive?<br>
 &emsp;You might be surprised but support is pretty good.<br>
-&emsp;Alongside that you can enjoy almost never having to restart your computer for updates, and much more.<br>
-&emsp;Welcome to the new age of operating systems.
+&emsp;Alongside that and many other things you can enjoy almost never having to restart your computer for updates<br>
+&emsp;again. Welcome to the new age of operating systems.
 
 * A Linux distribution, such as:
    * [Pop!\_OS](https://pop.system76.com)
