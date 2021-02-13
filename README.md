@@ -43,9 +43,9 @@ This list starts with a popular service and then lists alternatives to it.
 
 ## WhatsApp (messengers):
 
-* [Signal](https://www.signal.org)
-* [Threema](https://threema.ch)
-* [Telegram](https://telegram.org)
+* [Signal](https://www.signal.org) (open source)
+* [Threema](https://threema.ch) (open source)
+* [Telegram](https://telegram.org) (not open source)
 
 ## Google Translate (translators):
 
