@@ -33,10 +33,12 @@ This list starts with a popular service and then lists alternatives to it.
 * [PrivateEmail](https://privateemail.com/) (paid, has a free trial)
 * [mailbox.org](https://mailbox.org/en/) (paid, has a free trial)
 
-Now if you think that the storage these services offer is insufficient, let me tell you that there is actually a good thing to having limited storage.
-You will be forced to delete spam emails or emails you no longer need and that naturally makes your mailbox smaller,
-more organised and easier to navigate through.
-It forces you to make sure your mailbox stays clean, and that's good for your own sake. But even if you don't do so, 500 MB or 1 GB is plenty of space for the average user.
+&emsp;Now if you think that the storage these services offer is insufficient,<br>
+&emsp;let me tell you that there is actually a good thing to having limited storage.<br>
+&emsp;You will be forced to delete spam emails or emails you no longer need and that naturally makes your mailbox smaller,<br>
+&emsp;more organised and easier to navigate through.<br>
+&emsp;It forces you to make sure your mailbox stays clean, and that's good for your own sake.<br>
+&emsp;But even if you don't do so, 500 MB or 1 GB is plenty of space for the average user.
 
 ## WhatsApp (messengers):
 
@@ -46,7 +48,7 @@ It forces you to make sure your mailbox stays clean, and that's good for your ow
 
 ## Google Translate (translators):
 
-All of these offer more natural and accurate translations but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
+&emsp;All of these offer more natural and accurate translations but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
 
 * [DeepL Translate](https://www.deepl.com/translator)
 * [Papago](https://papago.naver.com/) (probably the best for East Asian languages)
@@ -56,16 +58,19 @@ All of these offer more natural and accurate translations but don't particularly
 * [Firefox](https://www.mozilla.org/en-US/firefox/browsers/)
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app/) (for mobile)
 * [Tor](https://www.torproject.org/)
-* [Bromite](https://www.bromite.org/) (for Android)
 * [Brave](https://brave.com/)
+* [Bromite](https://www.bromite.org/) (for Android)
 * [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)
 
 ## Google Play (app stores):
 
+&emsp;Privacy-focused:
+
 * [F-Droid](https://f-droid.org/)
 * [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
 
-But have you ever wanted to play the newest games from Japan and other countries that are unavailable in your region? These APK stores make it possible but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
+&emsp;But have you ever wanted to play the newest games from Japan and other countries that are unavailable in your region?<br>
+&emsp;These APK stores make it possible but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
 
 * [APKPure](https://apkpure.com/)
 * [APKMirror](https://www.apkmirror.com/)
@@ -79,7 +84,10 @@ But have you ever wanted to play the newest games from Japan and other countries
 
 ## Windows (operating systems):
 
-Worried about whether you will be able to run your tools and games that are said to be Windows-exclusive? You might be surprised but support is pretty good. Alongside that you can enjoy almost never having to restart your computer for updates, and much more. Welcome to the new age of operating systems.
+&emsp;Worried about whether you will be able to run your tools and games that are said to be Windows-exclusive?<br>
+&emsp;You might be surprised but support is pretty good.<br>
+&emsp;Alongside that you can enjoy almost never having to restart your computer for updates, and much more.<br>
+&emsp;Welcome to the new age of operating systems.
 
 * A Linux distribution, such as:
    * [Pop!\_OS](https://pop.system76.com/)
@@ -109,6 +117,8 @@ The discouraging ending "but don't particularly advertise privacy" isn't suppose
 
 ### Alternative lists
 
+&emsp;This document is supposed to collect high-quality services into a small list that is quick and easy to choose from.<br>
+&emsp;If you are looking for longer and more comprehensive lists, have a look at these:<br>
 * [r/degoogle Wiki](https://www.reddit.com/r/degoogle/wiki/index)
 * [switching.software](https://switching.software/)
 * [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives)
