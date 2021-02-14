@@ -12,17 +12,17 @@ This list starts with a popular service and then lists alternatives to it.
 
 ## Google (search engines):
 
-* [DuckDuckGo](https://duckduckgo.com) (dark theme and others, bangs)
-* [StartPage](https://www.startpage.com) (same results as Google but with privacy, dark theme and others)
+* [DuckDuckGo](https://duckduckgo.com): (dark theme and other themes, bangs)
+* [StartPage](https://www.startpage.com): (same results as Google but with privacy, dark theme and other themes)
 * [Ecosia](https://www.ecosia.org) (has (the bitter needed) support for the environment)
 * [Qwant](https://www.qwant.com) (EU-based)
 
 ## YouTube (video platforms):
 
-<!--replace the link with https://invidious.io/ once the site is ready (see https://github.com/iv-org/invidious/issues/1694)-->
+<!--replace the link with https://invidious.io/ once the site is ready (see https://github.com/iv-org/invidious/issues/1694) and then make it into the same format as the others-->
 * [Invidious](https://invidio.us) (not dead, select an instance): alternative front-end to YouTube with the same videos.
-* [NewPipe](https://newpipe.net/) (for Android): alternative front-end to YouTube with the same videos.
-* [Odysee](https://odysee.com) or [lbry.tv](https://lbry.tv): open source and with reposts from YouTube.
+* [NewPipe](https://newpipe.net/) (for Android, has YouTube's videos, background playback, video/audio download)
+* [Odysee](https://odysee.com) or [lbry.tv](https://lbry.tv) (has reposts from YouTube)
 * [PeerTube](https://joinpeertube.org/instances#instances-list) (select an instance)
 * There are others but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
    * Multilingual: [Dailymotion](https://www.dailymotion.com)
@@ -30,18 +30,19 @@ This list starts with a popular service and then lists alternatives to it.
 
 ## Gmail (email providers):
 
-* [ProtonMail](https://protonmail.com) (free plan: 500 MB storage)
-* [Tutanota](https://tutanota.com) (free plan: 1 GB storage)
-* [Mailfence](https://mailfence.com) (free plan: 500 MB storage)
-* [PrivateEmail](https://privateemail.com) (paid, has a free trial)
-* [mailbox.org](https://mailbox.org/en) (paid, has a free trial)
+* [ProtonMail](https://protonmail.com) (free: 500 MB storage, other paid plans)
+* [Tutanota](https://tutanota.com) (free: 1 GB storage, other paid plans)
+* [Mailfence](https://mailfence.com) (free: 500 MB storage, other paid plans)
+* [Posteo](https://posteo.de/en) (paid: 2 GB to 20 GB storage)
+* [PrivateEmail](https://privateemail.com) (paid: 5 to 15 GB storage)
+* [mailbox.org](https://mailbox.org/en) (paid: 2 to 100 GB storage)
 
-&emsp;Now if you think that the storage these services offer is insufficient,<br>
-&emsp;let me tell you that there is actually a good thing to having limited storage.<br>
+&emsp;Now if you think that some of the offered storage sizes like 500 MB are insufficient,<br>
+&emsp;it is worth noting that there is actually a good thing to having limited storage.<br>
 &emsp;You will be forced to delete spam emails or emails you no longer need<br>
 &emsp;and that naturally makes your mailbox smaller, more organised and easier to navigate through.<br>
 &emsp;It forces you to make sure your mailbox stays clean, and that's good for your own sake.<br>
-&emsp;But even if you don't do so, 500 MB or 1 GB is plenty of space for the average user.
+&emsp;But even if you don't do so, sizes like 500 MB are plenty of space for the average user.
 
 ## WhatsApp (messengers):
 
@@ -113,7 +114,7 @@ This list starts with a popular service and then lists alternatives to it.
 
 -----
 
-Ironically enough, this list is hosted on the proprietary GitHub, a service owned by Microsoft. For most people it is nowadays hardly possible to escape *all* of the big tech company services. Most of us still carry a phone around that almost always runs either Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire.  
+Ironically enough, this list is hosted on the proprietary GitHub, a service owned by Microsoft. For most people it is nowadays hardly possible to escape *all* of the big tech company services. After all, most of us carry a phone around almost always running on either Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire.  
 But that doesn't mean we can't do anything at all. We can still de-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) our lives to some degree. The types of services listed on the top are the most common and they are starting point of where we should begin to shift.
 
 ### Footnotes
