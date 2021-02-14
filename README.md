@@ -48,7 +48,7 @@ This list starts with a popular service and then lists alternatives to it.
 
 * [Signal](https://www.signal.org) (open source)
 * [Threema](https://threema.ch) (open source)
-* [Wickr](https://wickr.com) (not open source)
+* [Element](https://element.io) (open source)
 * [Telegram](https://telegram.org) (not open source)
 
 ## Facebook (social media):
@@ -86,10 +86,10 @@ This list starts with a popular service and then lists alternatives to it.
 
 ## Google Drive (file storage services):
 
-* [Sync](https://www.sync.com)
-* [Nextcloud](https://nextcloud.com)
-* [Tresorit](https://tresorit.com)
-* [Box](https://www.box.com)
+* [Sync](https://www.sync.com) (based in Canada)
+* [Nextcloud](https://nextcloud.com) (based in Germany)
+* [Tresorit](https://tresorit.com) (based in Switzerland and Hungary)
+* [Box](https://www.box.com) (based in the United States)
 
 ## Windows (operating systems):
 
