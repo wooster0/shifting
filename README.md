@@ -1,8 +1,8 @@
 *[GitLab version](https://gitlab.com/r00ster91/shifting)*
 
-I have the feeling there is even nowadays many people who might want to give other non-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) services a try but simply don't know what else to use. You might be surprised but there is a good quantity of alternatives to pretty much all of Google/Facebook/Microsoft[<sup>[1]</sup>](#f1)'s services. Aside from the better privacy, not only are these alternatives good, they are often even better. I finally had to publish this list of services that I think more people should know about.
+I have the feeling there is even nowadays many people who might want to give other non-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) services a try but simply don't know what else to use. You might be surprised but there is a good quantity of alternatives to pretty much all of Google/Facebook/Microsoft[<sup>[1]</sup>](#f1)'s services. Aside from the better privacy, not only are these alternatives good, they are often even better. In fact, there are services where you might think "Why haven't I used this all along?". I finally had to publish this list of services that I think more people should know about.
 
-This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, it's for the purpose of supporting the competition. More competition means a wider variety of services to choose from. A wider spectrum of tools with perhaps one feature better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users. We need regulation. Don't you agree they are rich enough?
+This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, it's for the purpose of supporting the competition. More competition means a wider variety of services to choose from. A wider spectrum of services with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users. We need regulation. Don't you agree they are rich enough?
 
 The hardest thing might be to get used to the new services and stopping habits of visiting the old ones. For years you have used that one service and now you need to get accustomed to a different one. It can be hard at first but just remember that it is possible.
 
@@ -47,18 +47,22 @@ This list starts with a popular service and then lists alternatives to it.
 
 ## WhatsApp (messengers):
 
+&emsp;All these services are open sources.
+
 * [Signal](https://www.signal.org)
 * [Threema](https://threema.ch)
 * [Element](https://element.io)
 
 ## Facebook (social media):
 
+&emsp;All these services are open sources.
+
 * [Mastodon](https://joinmastodon.org)
 * [Minds](https://www.minds.com) 
 
 ## Google Translate (translators):
 
-&emsp;All of these offer more natural and accurate translations but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
+&emsp;All these services offer more natural and accurate translations but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
 
 * [DeepL Translate](https://www.deepl.com/translator)
 * [Papago](https://papago.naver.com) (probably the best for East Asian languages)
@@ -76,7 +80,7 @@ This list starts with a popular service and then lists alternatives to it.
 &emsp;Privacy-focused:
 
 * [F-Droid](https://f-droid.org)
-* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
+* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore#downloads)
 
 &emsp;Also, have you ever wanted to play the newest games from Japan that are unavailable in your region?<br>
 &emsp;These APK stores make it possible but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
@@ -90,6 +94,12 @@ This list starts with a popular service and then lists alternatives to it.
 * [Nextcloud](https://nextcloud.com) (based in Germany)
 * [Tresorit](https://tresorit.com) (based in Switzerland and Hungary)
 * [Box](https://www.box.com) (based in the United States)
+
+## Google Maps (map services)
+
+* [OsmAnd](https://osmand.net) (offline maps)
+* [Magic Earth](https://www.magicearth.com) (offline maps)<!-- maybe add Qwant Maps once it's out of beta * [Qwant Maps](https://www.qwant.com/maps)-->
+* [OpenStreetMap](https://www.openstreetmap.org)
 
 ## Windows (operating systems):
 
