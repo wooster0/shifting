@@ -16,6 +16,7 @@ This list starts with a popular service and then lists alternatives to it.
 * [StartPage](https://www.startpage.com): (same results as Google but with privacy, dark theme and other themes)
 * [Ecosia](https://www.ecosia.org) (has (the bitter needed) support for the environment)
 * [Qwant](https://www.qwant.com) (EU-based)
+* [SearX](https://searx.space/) (select an instance)
 
 ## YouTube (video platforms):
 
@@ -46,10 +47,9 @@ This list starts with a popular service and then lists alternatives to it.
 
 ## WhatsApp (messengers):
 
-* [Signal](https://www.signal.org) (open source)
-* [Threema](https://threema.ch) (open source)
-* [Element](https://element.io) (open source)
-* [Telegram](https://telegram.org) (not open source)
+* [Signal](https://www.signal.org)
+* [Threema](https://threema.ch)
+* [Element](https://element.io)
 
 ## Facebook (social media):
 
