@@ -14,7 +14,7 @@ This list starts with a popular service and then lists alternatives to it.
 * :mag: [Search engines](#search_engines)
 * :tv: [Video platforms](#video_platforms)
 * :mailbox: [Email providers](#email_providers)
-* :envelope: [Messengers](#messengers)
+* :phone: [Messengers](#messengers)
 * :mega: [Social media](#social_media)
 * あ [Translators](#translators)
 * :bookmark: [Browsers](#browsers)
@@ -23,6 +23,7 @@ This list starts with a popular service and then lists alternatives to it.
 * :evergreen_tree: [Maps and navigation](#maps_and_navigation)
 * :floppy_disk: [Operating systems](#operating_systems)
 * :book: [Code hosting platforms](#code_hosting_platforms)
+<!--A keyboard section: * :pencil: [Keyboards](#keyboards)-->
 
 ## Google (search engines):<div id="search_engines">
 
