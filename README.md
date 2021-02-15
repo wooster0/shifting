@@ -49,9 +49,9 @@ This list starts with a popular service and then lists alternatives to it.
 
 * [ProtonMail](https://protonmail.com) (free: 500 MB storage, other paid plans)
 * [Tutanota](https://tutanota.com) (free: 1 GB storage, other paid plans)
+* [CTemplar](https://ctemplar.com) (free: 1 GB storage, other paid plans)
 * [Mailfence](https://mailfence.com) (free: 500 MB storage, other paid plans)
 * [Posteo](https://posteo.de/en) (paid: 2 GB to 20 GB storage)
-* [PrivateEmail](https://privateemail.com) (paid: 5 to 15 GB storage)
 * [mailbox.org](https://mailbox.org/en) (paid: 2 to 100 GB storage)
 
 &emsp;Now if you think that some of the offered storage sizes like 500 MB are insufficient,<br>
