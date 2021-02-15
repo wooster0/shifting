@@ -2,7 +2,7 @@
 
 I have the feeling there is even nowadays many people who might want to give other non-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) services a try but simply don't know what else to use. You might be surprised but there is a good quantity of alternatives to pretty much all of Google/Facebook/Microsoft[<sup>[1]</sup>](#f1)'s services. Aside from the better privacy, not only are these alternatives good, they are often even better. In fact, there are services where you might think "Why haven't I used this all along?". I finally had to publish this list of services that I think more people should know about.
 
-This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, it's for the purpose of supporting the competition. More competition means a wider variety of services to choose from. A wider spectrum of services with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users. We need regulation. Don't you agree they are rich enough?
+This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition, other smaller companies. More competition means a wider variety of services to choose from. A wider spectrum of services with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users. We need regulation. Don't you agree they are rich enough?
 
 The hardest thing might be to get used to the new services and stopping habits of visiting the old ones. For years you have used that one service and now you need to get accustomed to a different one. It can be hard at first but just remember that it is possible.
 
@@ -14,11 +14,11 @@ This list starts with a popular service and then lists alternatives to it.
 * :mag: [Search engines](#search_engines)
 * :tv: [Video platforms](#video_platforms)
 * :mailbox: [Email providers](#email_providers)
-* :phone: [Messengers](#messengers)
+* :envelope: [Messengers](#messengers)
 * :mega: [Social media](#social_media)
 * あ [Translators](#translators)
-* :book: [Browsers](#browsers)
-* :bookmark: [App stores](#app_stores)
+* :bookmark: [Browsers](#browsers)
+* :arrow_double_down: [App stores](#app_stores)
 * :open_file_folder: [File storage services](#file_storage_services)
 * :evergreen_tree: [Maps and navigation](#maps_and_navigation)
 * :floppy_disk: [Operating systems](#operating_systems)
@@ -34,7 +34,8 @@ This list starts with a popular service and then lists alternatives to it.
 
 ## YouTube (video platforms):<div id="video_platforms">
 
-<!--replace the link with https://invidious.io/ once the site is ready (see https://github.com/iv-org/invidious/issues/1694) and then make it into the same format as the others-->
+<!--Maybe add https://github.com/ytorg/Yotter once it has matured-->
+<!--Replace the Invidious link with https://invidious.io/ once the site is ready (see https://github.com/iv-org/invidious/issues/1694) and then make it into the same format as the others-->
 * [Invidious](https://invidio.us) (not dead, select an instance): alternative front-end to YouTube with the same videos.
 * [NewPipe](https://newpipe.net/) (for Android, has YouTube's videos, background playback, video/audio download)
 * [Odysee](https://odysee.com) or [lbry.tv](https://lbry.tv) (has reposts from YouTube)
