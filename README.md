@@ -2,7 +2,8 @@
 
 I have the feeling there is even nowadays many people who might want to give other non-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) services a try but simply don't know what else to use. You might be surprised but there is a good quantity of alternatives to pretty much all of Google/Facebook/Microsoft[<sup>[1]</sup>](#f1)'s services. Aside from the better privacy, not only are these alternatives good, they are often even better. In fact, there are services where you might think "Why haven't I used this all along?". I finally had to publish this list of services that I think more people should know about.
 
-This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition, other smaller companies. More competition means a wider variety of services to choose from. A wider spectrum of services with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users. We need regulation. Don't you agree they are rich enough?
+This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition, other smaller companies. More competition means a wider variety of services to choose from. A wider spectrum of services with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users.
+We need regulation. Don't you agree they are rich enough?
 
 The hardest thing might be to get used to the new services and stopping habits of visiting the old ones. For years you have used that one service and now you need to get accustomed to a different one. It can be hard at first but just remember that it is possible.
 
@@ -23,7 +24,7 @@ This list starts with a popular service and then lists alternatives to it.
 * :evergreen_tree: [Maps and navigation](#maps_and_navigation)
 * :floppy_disk: [Operating systems](#operating_systems)
 * :book: [Code hosting platforms](#code_hosting_platforms)
-<!--A keyboard section: * :pencil: [Keyboards](#keyboards)-->
+* :pencil: [Keyboards](#keyboards)
 
 ## Google (search engines):<div id="search_engines">
 
@@ -125,12 +126,28 @@ This list starts with a popular service and then lists alternatives to it.
 &emsp;again. Welcome to the new age of operating systems.
 
 * A Linux distribution, such as for example:
-   * [Pop!\_OS](https://pop.system76.com)
+   * [Pop!_OS](https://pop.system76.com)
    * [Manjaro](https://manjaro.org)
    * [MX Linux](https://mxlinux.org)
    * [Mint](https://linuxmint.com)
    * [Ubuntu](https://ubuntu.com)
    * Others: see the list on the right on [https://distrowatch.com/](https://distrowatch.com).
+
+## Google Keyboard (keyboards):<div id="keyboards">
+
+* [AnySoftKeyboard](https://anysoftkeyboard.github.io)
+* [OpenBoard](https://github.com/dslul/OpenBoard)
+* [FlorisBoard](https://github.com/florisboard/florisboard)
+
+&emsp;Here are keyboards that are popular for Japanese input but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
+
+* [Simeji](https://simeji.me):
+
+&emsp;&emsp;One of the best Japanese keyboards. It works great for English too.<br>
+&emsp;&emsp;Some data is sent to a cloud to improve conversion accuracy but data is deleted within 60 days and the cloud can be turned off.
+
+* [mazec](http://mazec.jp) (handwritten input)
+* [ATOK](https://www.atok.com)
 
 ## GitHub (code hosting platforms):<div id="code_hosting_platforms">
 
