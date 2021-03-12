@@ -1,9 +1,10 @@
 *[GitLab version](https://gitlab.com/r00ster91/shifting)*
 
-I have the feeling there is even nowadays many people who might want to give other non-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) services a try but simply don't know what else to use. You might be surprised but there is a good quantity of alternatives to pretty much all of Google/Facebook/Microsoft[<sup>[1]</sup>](#f1)'s services. Aside from the better privacy, not only are these alternatives good, they are often even better. In fact, there are services where you might think "Why haven't I used this all along?". I finally had to publish this list of services that I think more people should know about.
+I have the feeling there is many people who might want to give other non-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) services a try but aren't aware of the alternatives. You might be surprised but there is a good quantity of alternatives to pretty much all of Google/Facebook/Microsoft[<sup>[1]</sup>](#f1)'s services. Aside from the better privacy, not only are these alternatives good, they are often advantageous in many ways. In fact, there are services where you might think "Why haven't I used this all along?".
 
-This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition, other smaller companies. More competition means a wider variety of services to choose from. A wider spectrum of services with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users.
-We need regulation. Don't you agree they are rich enough?
+Please note that I do not disdain or despise anyone that uses services this list advises against. This isn't supposed to be some kind of rant. I simply find it a shame that people who are ready for a change face a shortage of substitutes for their services. I wish for more people to know that there is more out there.
+
+This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition, other smaller companies. More competition means a wider variety of services to choose from. It implies a wider spectrum of services with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users. We need regulation.
 
 The hardest thing might be to get used to the new services and stopping habits of visiting the old ones. For years you have used that one service and now you need to get accustomed to a different one. It can be hard at first but just remember that it is possible.
 
@@ -57,7 +58,7 @@ This list starts with a popular service and then lists alternatives to it.
 
 &emsp;Now if you think that some of the offered storage sizes like 500 MB are insufficient,<br>
 &emsp;it is worth noting that there is actually a good thing to having limited storage.<br>
-&emsp;You will be forced to delete spam emails or emails you no longer need<br>
+&emsp;At some point you will be forced to delete spam emails or emails you no longer need<br>
 &emsp;and that naturally makes your mailbox smaller, more organised and easier to navigate through.<br>
 &emsp;It forces you to make sure your mailbox stays clean, and that's good for your own sake.<br>
 &emsp;But even if you don't do so, sizes like 500 MB are plenty of space for the average user.
@@ -157,8 +158,8 @@ This list starts with a popular service and then lists alternatives to it.
 
 -----
 
-Ironically enough, this list is hosted on the proprietary GitHub, a service owned by Microsoft. For most people it is nowadays hardly possible to escape *all* of the big tech company services. After all, most of us carry a phone around almost always running on either Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire.  
-But that doesn't mean we can't do anything at all. We can still de-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) our lives to some degree. The types of services listed on the top are the most common and they are starting point of where we should begin to shift.
+Ironically enough, this list is hosted on the proprietary GitHub, a service owned by Microsoft. For most people it is nowadays hardly possible to "escape" *all* of the big tech company services. After all, most of us carry a phone around typically running Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire.  
+But that doesn't mean we can't do anything at all. We can still de-Google/Facebook/Microsoft[<sup>[1]</sup>](#f1) our lives to some degree. The kind of services listed on the top are the most common and they represent the starting point of where we should begin to shift.
 
 ### Footnotes
 
