@@ -2,7 +2,7 @@ There is many people that believe there is no other choices apart from the servi
 
 This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition, other smaller companies. More competition means a wider variety of services to choose from. It implies a wider spectrum of services with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users, with little regulation.
 
-The hardest thing might be to get used to the new services and stopping old habits. It can be hard at first but remember it is possible.
+The hardest thing might be to get used to the new services and stopping old habits. It can be hard at first but remember that it is possible.
 
 Most of the services listed care about your privacy.
 
