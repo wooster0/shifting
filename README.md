@@ -2,7 +2,7 @@ There is many people that believe there is no other choices apart from the servi
 
 This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition, other smaller companies. More competition means a wider variety of services to choose from. It implies a wider spectrum of services with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users, with little regulation.
 
-The hardest thing might be to get used to the new services and stopping old habits. It can be hard at first but it is possible.
+The hardest thing might be to get used to the new services and stopping old habits. It can be hard at first but remember it is possible.
 
 Most of the services listed care about your privacy.
 
@@ -51,12 +51,18 @@ Most of the services listed care about your privacy.
 * [Posteo](https://posteo.de/en) (paid: 2 GB to 20 GB storage)
 * [mailbox.org](https://mailbox.org/en) (paid: 2 to 100 GB storage)
 
-&emsp;It is worth noting that there is a good thing to having limited storage such as 500 MB.<br>
-&emsp;At some point you will be forced to delete emails you no longer need<br>
-&emsp;and that naturally makes your mailbox smaller, more organised and easier to navigate through.<br>
-&emsp;It forces you to make sure your mailbox stays clean, and that's good for your own sake.<br>
-&emsp;But even if you don't do so, sizes like 500 MB are plenty of space for the average user.
+<details>
+  <summary>
+    A note on limited storage.
+  </summary>
 
+  &emsp;It is worth noting that there is a good thing to having limited storage such as 500 MB.<br>
+  &emsp;At some point you will be forced to delete emails you no longer need<br>
+  &emsp;and that naturally makes your mailbox smaller, more organised and easier to navigate through.<br>
+  &emsp;It forces you to make sure your mailbox stays clean, and that's good for your own sake.<br>
+  &emsp;But even if you don't do so, sizes like 500 MB are plenty of space for the average user.
+</details>
+  
 ## WhatsApp alternatives (messengers):<div id="messengers">
 
 &emsp;All these services are open sources.
