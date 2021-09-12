@@ -88,8 +88,8 @@ Most of the services listed care about your privacy.
 ## Chrome alternatives (browsers):<div id="browsers">
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/browsers)
-* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) (for mobile, Chromium-based)
 * [Tor](https://www.torproject.org)
+* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) (for mobile, Chromium-based)
 * [Brave](https://brave.com) (Chromium-based)
 * [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium#downloads) (Chromium-based)
 
@@ -127,8 +127,9 @@ Most of the services listed care about your privacy.
 
 * You'll want a Linux distribution, such as for example:
    * [Pop!_OS](https://pop.system76.com)
-   * [MX Linux](https://mxlinux.org)
+   * [Tails](https://tails.boum.org)
    * [Mint](https://linuxmint.com)
+   * [MX Linux](https://mxlinux.org)
    * [Manjaro](https://manjaro.org)
    * [Ubuntu](https://ubuntu.com)
    * Others: see the list on the right on [https://distrowatch.com/](https://distrowatch.com).
