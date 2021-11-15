@@ -1,10 +1,10 @@
-There is many people that believe there is no other choices apart from the services that are behind the well-known companies such as Google, Facebook and Microsoft. You might be surprised but there is a good quantity of alternatives to pretty much all of those companies' services. Aside from the better privacy, not only are these alternatives good, they are often advantageous in many ways. In fact, there are services where you might think "Why haven't I used this all along?".
+There are many people that believe there are no other choices apart from the services that are behind the well-known companies such as Google, Facebook and Microsoft. You might be surprised but there is a good number of alternatives to pretty much all of those companies' services. Aside from the better privacy, not only are these alternatives good, they are often advantageous in many ways. In fact, there are services where you might think "Why haven't I used this all along?".
 
-This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition, other smaller companies. More competition means a wider variety of services to choose from. It implies a wider spectrum of services with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users, with little regulation.
+This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition, other smaller companies. More competition means a wider variety of services to choose from with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users, with little regulation.
 
 The hardest thing might be to get used to the new services and stopping old habits. It can be hard at first but remember that it is possible.
 
-Most of the services listed care about your privacy.
+Services listed here generally respect your privacy unless stated otherwise.
 
 ### Table of contents
 
@@ -24,20 +24,19 @@ Most of the services listed care about your privacy.
 
 ## Google alternatives (search engines):<div id="search_engines">
 
-* [DuckDuckGo](https://duckduckgo.com): (dark theme and other themes, bangs)
-* [StartPage](https://www.startpage.com): (same results as Google but with privacy, dark theme and other themes)
+* [DuckDuckGo](https://duckduckgo.com) (dark theme and other themes, bangs)
+* [StartPage](https://www.startpage.com) (same results as Google but with privacy, dark theme and other themes)
 * [Ecosia](https://www.ecosia.org) (supports the environment)
 * [Qwant](https://www.qwant.com) (EU-based)
-* [SearX](https://searx.space/) (select an instance)
+* [SearX](https://searx.space) (aggregates results from >70 search services)
 
 ## YouTube alternatives (video platforms):<div id="video_platforms">
 
-<!--Maybe add https://github.com/ytorg/Yotter once it has matured-->
-<!--Replace the Invidious link with https://invidious.io/ once the site is ready (see https://github.com/iv-org/invidious/issues/1694) and then make it into the same format as the others-->
-* [Invidious](https://invidio.us) (not dead, select an instance): alternative front-end to YouTube with the same videos.
-* [NewPipe](https://newpipe.net/) (for Android, has YouTube's videos, background playback, video/audio download)
+* [Invidious](https://invidious.io) (has YouTube's videos)
+* [NewPipe](https://newpipe.net) (for Android, has YouTube's videos, background playback, video/audio download)
+* [Piped](https://piped.kavin.rocks) (has YouTube's videos)
 * [Odysee](https://odysee.com) or [lbry.tv](https://lbry.tv) (has reposts from YouTube)
-* [PeerTube](https://joinpeertube.org/instances#instances-list) (select an instance)
+* [PeerTube](https://joinpeertube.org) (decentralized)
 * There are others but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
    * Japanese: [Niconico](https://www.nicovideo.jp)
    * Multilingual: [Dailymotion](https://www.dailymotion.com)
@@ -87,18 +86,16 @@ Most of the services listed care about your privacy.
 
 ## Chrome alternatives (browsers):<div id="browsers">
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/browsers)
+* [Firefox](https://www.mozilla.org/en-US/firefox)
 * [Tor](https://www.torproject.org)
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) (for mobile, Chromium-based)
 * [Brave](https://brave.com) (Chromium-based)
-* [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium#downloads) (Chromium-based)
+* [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) (Chromium-based)
 
 ## Google Play alternatives (app stores):<div id="app_stores">
 
-&emsp;Privacy-focused:
-
 * [F-Droid](https://f-droid.org)
-* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore#downloads)
+* [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
 
 &emsp;Also, have you ever wanted to play the newest games from Japan that are unavailable in your region?<br>
 &emsp;These APK stores make it possible but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
@@ -116,7 +113,8 @@ Most of the services listed care about your privacy.
 ## Google Maps alternatives (maps and navigation)<div id="maps_and_navigation">
 
 * [OsmAnd](https://osmand.net) (offline maps)
-* [Magic Earth](https://www.magicearth.com) (offline maps)<!-- maybe add Qwant Maps once it's out of beta * [Qwant Maps](https://www.qwant.com/maps)-->
+* [Qwant Maps](https://www.qwant.com/maps)
+* [Magic Earth](https://www.magicearth.com) (for mobile, offline maps)
 * [OpenStreetMap](https://www.openstreetmap.org)
 
 ## Windows alternatives (operating systems):<div id="operating_systems">
@@ -132,7 +130,7 @@ Most of the services listed care about your privacy.
    * [MX Linux](https://mxlinux.org)
    * [Manjaro](https://manjaro.org)
    * [Ubuntu](https://ubuntu.com)
-   * Others: see the list on the right on [https://distrowatch.com/](https://distrowatch.com).
+   * [Others](https://distrowatch.com)
 
 ## Google Keyboard alternatives (keyboards):<div id="keyboards">
 
@@ -144,7 +142,7 @@ Most of the services listed care about your privacy.
 
 * [Simeji](https://simeji.me):
 
-&emsp;&emsp;One of the best Japanese keyboards. It works great for English too.<br>
+&emsp;&emsp;One of the best Japanese keyboards. It works great for other languages too.<br>
 &emsp;&emsp;Some data is sent to a cloud to improve conversion accuracy but data is deleted within 60 days<br>
 &emsp;&emsp;and the cloud can be turned off.
 
@@ -159,7 +157,7 @@ Most of the services listed care about your privacy.
 
 -----
 
-Ironically enough, this list is hosted on GitHub, a service owned by Microsoft. The reason is partially because for most people it is nowadays hardly possible to avoid all of the mainstream services. After all, most of us carry a phone around typically running Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire. But there is still a lot of things we can do as this list shows. The kind of services on the top are the ones we need to start with.
+Ironically enough, this list is hosted on GitHub, a service owned by Microsoft. This is partially because for most people it is nowadays hardly possible to avoid all of the mainstream services. After all, most of us carry a phone around typically running Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire. But there are still a lot of things we can do as this list shows. The kind of services on the top are the ones we need to start with.
 
 ### Footnotes
 
