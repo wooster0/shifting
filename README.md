@@ -24,7 +24,8 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 ## Google alternatives (search engines):<div id="search_engines">
 
-* [DuckDuckGo](https://duckduckgo.com) (dark theme and other themes, bangs)
+* [DuckDuckGo](https://duckduckgo.com) (dark theme and, other themes, bangs)
+* [Brave Search](https://search.brave.com) (dark theme, independent index, Discussions)
 * [StartPage](https://www.startpage.com) (same results as Google but with privacy, dark theme and other themes)
 * [Ecosia](https://www.ecosia.org) (supports the environment)
 * [Qwant](https://www.qwant.com) (EU-based)
@@ -62,13 +63,12 @@ Services listed here generally respect your privacy unless stated otherwise.
   &emsp;But even if you don't do so, sizes like 500 MB are plenty of space for the average user.
 </details>
   
-## WhatsApp alternatives (messengers):<div id="messengers">
+## WhatsApp/Discord alternatives (messengers):<div id="messengers">
 
 &emsp;All these services are open sources.
 
-* [Signal](https://www.signal.org)
-* [Threema](https://threema.ch)
 * [Element](https://element.io)
+* [Signal](https://www.signal.org)
 
 ## Facebook alternatives (social media):<div id="social_media">
 
