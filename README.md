@@ -68,6 +68,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 &emsp;All these services are open sources.
 
 * [Element](https://element.io)
+* [Session](https://getsession.org)
 * [Signal](https://www.signal.org)
 
 ## Facebook alternatives (social media):<div id="social_media">
