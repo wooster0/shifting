@@ -68,6 +68,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 &emsp;All these services are open sources.
 
 * [Element](https://element.io)
+* [Wire](https://wire.com)
 * [Signal](https://www.signal.org)
 * [Session](https://getsession.org)
 
