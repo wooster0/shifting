@@ -89,7 +89,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 ## Chrome alternatives (browsers):<div id="browsers">
 
 * [Firefox](https://www.mozilla.org/en-US/firefox)
-* [Tor](https://www.torproject.org)
+* [Tor](https://www.torproject.org) (Firefox-based)
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) (for mobile, Chromium-based)
 * [Brave](https://brave.com) (Chromium-based)
 * [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) (Chromium-based)
@@ -134,6 +134,15 @@ Services listed here generally respect your privacy unless stated otherwise.
    * [Ubuntu](https://ubuntu.com)
    * [Others](https://distrowatch.com)
 
+## GitHub alternatives (code hosting platforms):<div id="code_hosting_platforms">
+
+&emsp;All these services are open sources.
+
+* [Codeberg](https://codeberg.org)
+* [sourcehut](https://sourcehut.org)
+* [Gitea](https://gitea.io)
+* [GitLab](https://gitlab.com)
+
 ## Google Keyboard alternatives (keyboards):<div id="keyboards">
 
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io)
@@ -150,12 +159,6 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 * [mazec](http://mazec.jp) (handwritten input)
 * [ATOK](https://www.atok.com)
-
-## GitHub alternatives (code hosting platforms):<div id="code_hosting_platforms">
-
-* [GitLab](https://about.gitlab.com) (open source)
-* [Gitea](https://gitea.io) (open source)
-* [Bitbucket](https://bitbucket.org) (not open source)
 
 -----
 
