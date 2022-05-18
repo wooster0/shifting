@@ -89,7 +89,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 ## Chrome alternatives (browsers):<div id="browsers">
 
 * [Firefox](https://www.mozilla.org/en-US/firefox)
-* [Tor](https://www.torproject.org) (Firefox-based)
+* [Tor Browser](https://www.torproject.org) (Firefox-based)
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) (for mobile, Chromium-based)
 * [Brave](https://brave.com) (Chromium-based)
 * [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) (Chromium-based)
