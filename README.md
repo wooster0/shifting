@@ -107,6 +107,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 ## Google Drive alternatives (file storage services):<div id="file_storage_services">
 
+* [Proton Drive](https://proton.me/drive) (based in Switzerland)
 * [Sync](https://www.sync.com) (based in Canada)
 * [Nextcloud](https://nextcloud.com) (based in Germany)
 * [Tresorit](https://tresorit.com) (based in Switzerland and Hungary)
