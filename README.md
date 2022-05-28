@@ -44,7 +44,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 ## Gmail alternatives (email providers):<div id="email_providers">
 
-* [ProtonMail](https://protonmail.com) (free: 500 MB storage, other paid plans)
+* [Proton Mail](https://proton.me) (free: 500 MB storage, other paid plans)
 * [Tutanota](https://tutanota.com) (free: 1 GB storage, other paid plans)
 * [CTemplar](https://ctemplar.com) (free: 1 GB storage, other paid plans)
 * [Mailfence](https://mailfence.com) (free: 500 MB storage, other paid plans)
