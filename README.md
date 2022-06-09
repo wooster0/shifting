@@ -26,7 +26,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 * [DuckDuckGo](https://duckduckgo.com) (dark theme and, other themes, bangs)
 * [Brave Search](https://search.brave.com) (dark theme, independent index, Discussions)
-* [StartPage](https://www.startpage.com) (same results as Google but with privacy, dark theme and other themes)
+* [Startpage](https://www.startpage.com) (same results as Google but with privacy, dark theme and other themes)
 * [Ecosia](https://www.ecosia.org) (supports the environment)
 * [Qwant](https://www.qwant.com) (EU-based)
 * [SearX](https://searx.space) (aggregates results from >70 search services)
