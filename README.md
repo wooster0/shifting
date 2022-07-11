@@ -163,7 +163,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 -----
 
-Ironically enough, this list is hosted on GitHub, a service owned by Microsoft. This is partially because for most people it is nowadays hardly possible to avoid all of the mainstream services. After all, most of us carry a phone around typically running Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire. But there are still a lot of things we can do as this list shows. The kind of services on the top are the ones we need to start with.
+Ironically enough, this list is hosted on GitHub, a proprietary service owned by Microsoft. This is partially because for most people it is nowadays hardly possible to avoid all of these mainstream services. After all, most of us carry a phone around typically running Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire. But there are still a lot of things we can do as this list shows. The kind of services on the top are the ones we need to start with.
 
 ### Footnotes
 
