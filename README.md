@@ -86,6 +86,9 @@ Services listed here generally respect your privacy unless stated otherwise.
 * [DeepL Translate](https://www.deepl.com/translator)
 * [Papago](https://papago.naver.com) (probably the best for East Asian languages)
 
+&emsp;If you still want to use Google's engine, this is an open source front-end:
+* [Simply Translate](https://simplytranslate.org/)
+
 ## Chrome alternatives (browsers):<div id="browsers">
 
 * [Firefox](https://www.mozilla.org/en-US/firefox)
