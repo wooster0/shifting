@@ -139,10 +139,9 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 &emsp;All these services are open sources.
 
-* [Codeberg](https://codeberg.org)
 * [sourcehut](https://sourcehut.org)
 * [Gitea](https://gitea.io)
-* [GitLab](https://gitlab.com)
+* [Codeberg](https://codeberg.org)
 
 ## Google Keyboard alternatives (keyboards):<div id="keyboards">
 
