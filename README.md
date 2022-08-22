@@ -68,8 +68,17 @@ Services listed here generally respect your privacy unless stated otherwise.
 &emsp;All these services are open sources.
 
 * [Element](https://element.io)
-* [Wire](https://wire.com)
+  <br>
+  E2E can cause you to lose messages if you lose room keys, which can happen if you for example use private windows.
+  
+* [Wire](https://wire.com) (origin: Germany)
+  <br>
+  Messages may be sent delayed sometimes. On mobile (at least iOS) replying to messages from the notifications menu is not possible.
+  
 * [Signal](https://www.signal.org)
+  <br>
+  Well-suited for real-life people.
+  
 * [Session](https://getsession.org)
 
 ## Facebook alternatives (social media):<div id="social_media">
