@@ -67,9 +67,10 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 &emsp;All these services are open sources.
 
-* [Element](https://element.io)
+* [Element](https://element.io) (protocol: Matrix)
   <br>
   E2E can cause you to lose messages if you lose room keys, which can happen if you for example use private windows.
+  Using Element on multiple
   
 * [Wire](https://wire.com) (origin: Germany)
   <br>
