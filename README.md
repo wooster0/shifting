@@ -72,7 +72,7 @@ Services listed here generally respect your privacy unless stated otherwise.
   E2E can cause you to lose messages if you lose room keys, which can happen if you for example use private windows.
   Using Element on multiple
   
-* [Wire](https://wire.com) (origin: Germany)
+* [Wire](https://wire.com)
   <br>
   Messages may be sent delayed sometimes. On mobile (at least iOS) replying to messages from the notifications menu is not possible.
   
