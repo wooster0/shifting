@@ -1,8 +1,10 @@
-There are many people that believe there are no other choices apart from the services that are behind the well-known companies such as Google, Facebook, and Microsoft. You might be surprised but there is a good number of alternatives to pretty much all of those companies' services. Aside from the better privacy, not only are these alternatives good, they are often advantageous in many ways. In fact, there are services where you might think "why haven't I used this all along?".
+# shifting
 
-This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about always supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition: other, smaller companies. More competition means a wider variety of services to choose from with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users, with little regulation; a monopoly.
+There are many people that believe there are no alternatives to the services that are behind the well-known companies such as Google, Facebook, and Microsoft. You might be surprised but there is a good number of alternatives to pretty much all of those companies' services. Aside from the better privacy, not only are these alternatives good, they are often advantageous in many ways. In fact, there are services where you might think "why haven't I used this all along?".
 
-The hardest thing might be to get used to the new services and stopping old habits. It can be hard at first but remember that it is possible.
+This list is about giving services a chance that are not part of one of the largest tech companies. But what's so bad about always supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition: other, smaller companies. More competition means a wider variety of services to choose from with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users, with little regulation; a monopoly.
+
+The hardest thing might be to get used to the new services and stopping old habits. It may be hard at first but remember that it is possible.
 
 Services listed here generally respect your privacy unless stated otherwise.
 
