@@ -1,6 +1,6 @@
-There are many people that believe there are no other choices apart from the services that are behind the well-known companies such as Google, Facebook and Microsoft. You might be surprised but there is a good number of alternatives to pretty much all of those companies' services. Aside from the better privacy, not only are these alternatives good, they are often advantageous in many ways. In fact, there are services where you might think "Why haven't I used this all along?".
+There are many people that believe there are no other choices apart from the services that are behind the well-known companies such as Google, Facebook, and Microsoft. You might be surprised but there is a good number of alternatives to pretty much all of those companies' services. Aside from the better privacy, not only are these alternatives good, they are often advantageous in many ways. In fact, there are services where you might think "why haven't I used this all along?".
 
-This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about repeatedly supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition, other smaller companies. More competition means a wider variety of services to choose from with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users, with little regulation.
+This list is about giving services a chance that are not part of one of the largest technology companies. But what's so bad about always supporting the same big tech companies? For one, not doing so is for the purpose of supporting the competition: other, smaller companies. More competition means a wider variety of services to choose from with perhaps one better than the other. A lack of competition means that only very few companies have a lot of power over a large amount of users, with little regulation; a monopoly.
 
 The hardest thing might be to get used to the new services and stopping old habits. It can be hard at first but remember that it is possible.
 
@@ -24,9 +24,9 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 ## Google alternatives (search engines):<div id="search_engines">
 
-* [DuckDuckGo](https://duckduckgo.com) (dark theme and, other themes, bangs)
-* [Brave Search](https://search.brave.com) (dark theme, independent index, Discussions)
-* [Startpage](https://www.startpage.com) (same results as Google but with privacy, dark theme and other themes)
+* [DuckDuckGo](https://duckduckgo.com) (bangs, themes)
+* [Brave Search](https://search.brave.com) (themes, independent index, Discussions)
+* [Startpage](https://www.startpage.com) (same results as Google but with privacy, themes)
 * [Ecosia](https://www.ecosia.org) (supports the environment)
 * [Qwant](https://www.qwant.com) (EU-based)
 * [SearX](https://searx.space) (aggregates results from >70 search services)
@@ -58,33 +58,37 @@ Services listed here generally respect your privacy unless stated otherwise.
 
   &emsp;It is worth noting that there is a good thing to having limited storage such as 500 MB.<br>
   &emsp;At some point you will be forced to delete emails you no longer need<br>
-  &emsp;and that naturally makes your mailbox smaller, more organised and easier to navigate through.<br>
+  &emsp;and that naturally makes your mailbox smaller, more organized and easier to navigate through.<br>
   &emsp;It forces you to make sure your mailbox stays clean, and that's good for your own sake.<br>
   &emsp;But even if you don't do so, sizes like 500 MB are plenty of space for the average user.
 </details>
   
 ## WhatsApp/Discord alternatives (messengers):<div id="messengers">
 
-&emsp;All these services are open sources.
+&emsp;All these services are open-source.
 
-* [Element](https://element.io) (protocol: Matrix)
+* [Matrix](https://matrix.org/) protocol: [Element](https://element.io), [FluffyChat](https://tether.im/), [Syphon](https://tether.im/) (these are clients for using the Matrix protocol)
   <br>
   E2E can cause you to lose messages if you lose room keys, which can happen if you for example use private windows.
-  Using Element on multiple
-  
-* [Wire](https://wire.com)
+  Using the client on multiple devices can help prevent this.
   <br>
-  Messages may be sent delayed sometimes. On mobile (at least iOS) replying to messages from the notifications menu is not possible.
-  
+  Messages are stored on homeservers, end-to-end-encrypted, if encryption is enabled.
+
 * [Signal](https://www.signal.org)
   <br>
-  Well-suited for real-life people.
+  Requires telephone number; well-suited for real-life people.
+  <br>
+  Messages are stored locally, in encrypted form.
+
+* [Wire](https://wire.com)
+  <br>
+  Messages are stored locally, in encrypted form.
   
 * [Session](https://getsession.org)
 
 ## Facebook alternatives (social media):<div id="social_media">
 
-&emsp;All these services are open sources.
+&emsp;All these services are open-source.
 
 * [Mastodon](https://joinmastodon.org)
 * [Minds](https://www.minds.com) 
@@ -98,7 +102,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 ## Chrome alternatives (browsers):<div id="browsers">
 
-* [Firefox](https://www.mozilla.org/en-US/firefox)
+* [Firefox](https://www.mozilla.org/en-US/firefox) (open-source)
 * [Tor Browser](https://www.torproject.org) (Firefox-based)
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) (for mobile, Chromium-based)
 * [Brave](https://brave.com) (Chromium-based)
@@ -147,7 +151,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 ## GitHub alternatives (code hosting platforms):<div id="code_hosting_platforms">
 
-&emsp;All these services are open sources.
+&emsp;All these services are open-source.
 
 * [sourcehut](https://sourcehut.org)
 * [Gitea](https://gitea.io)
@@ -172,12 +176,13 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 -----
 
-Ironically enough, this list is hosted on GitHub, a proprietary service owned by Microsoft. This is partially because for most people it is nowadays hardly possible to avoid all of these mainstream services. After all, most of us carry a phone around typically running Android or iOS with the need of creating an account and agreeing to policies to get access to basic services we desire. But there are still a lot of things we can do as this list shows. The kind of services on the top are the ones we need to start with.
+Ironically enough, this list is hosted on GitHub, a proprietary service owned by Microsoft. The reason is mostly that GitHub, compared to the alternatives, still reaches a wider audience due to its popularity.
+Additionally, for most people it is nowadays hardly possible to avoid all of these mainstream services. After all, most of us carry a phone around typically running Android or iOS with the need of creating an account and agreeing to all kinds of policies to get access to basic services we desire. Nonetheless there are still a lot of things we can do as this list shows. The kind of services on the top are the ones we need to start with.
 
 ### Footnotes
 
 1. <span id="f1"></span>
-Although this document only mentions Google, Facebook and Microsoft, that doesn't mean they are the only companies that face a threat to privacy. They are just examples.
+Although this document only mentions Google, Facebook, and Microsoft, that doesn't mean they are the only companies that face a threat to privacy. They are just examples.
 
 2. <span id="f2"></span>
 Note that this isn't supposed to mean that this service is strictly to be avoided. As mentioned at the start of the document, it contributes to and serves the competition.
