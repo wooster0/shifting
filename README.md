@@ -145,6 +145,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 * You'll want a Linux distribution, such as for example:
    * [Pop!_OS](https://pop.system76.com)
+   * [Arch Linux](https://archlinux.org)
    * [Tails](https://tails.boum.org)
    * [Mint](https://linuxmint.com)
    * [MX Linux](https://mxlinux.org)
