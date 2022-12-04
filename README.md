@@ -35,10 +35,11 @@ Services listed here generally respect your privacy unless stated otherwise.
 
 ## YouTube alternatives (video platforms):<div id="video_platforms">
 
+* [Odysee](https://odysee.com) (has reposts from YouTube)
+* [Rumble](https://rumble.com) (has creators from YouTube)
 * [Invidious](https://invidious.io) (has YouTube's videos)
 * [NewPipe](https://newpipe.net) (for Android, has YouTube's videos, background playback, video/audio download)
 * [Piped](https://piped.kavin.rocks) (has YouTube's videos)
-* [Odysee](https://odysee.com) or [lbry.tv](https://lbry.tv) (has reposts from YouTube)
 * [PeerTube](https://joinpeertube.org) (decentralized)
 * There are others but don't particularly advertise privacy[<sup>[2]</sup>](#f2):
    * Japanese: [Niconico](https://www.nicovideo.jp)
