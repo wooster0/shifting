@@ -146,11 +146,9 @@ Services listed here generally respect your privacy unless stated otherwise.
 * You'll want a Linux distribution, such as for example:
    * [Pop!_OS](https://pop.system76.com)
    * [Arch Linux](https://archlinux.org)
+   * [Linux Mint](https://linuxmint.com)
+   * [Void Linux](https://voidlinux.org)
    * [Tails](https://tails.boum.org)
-   * [Mint](https://linuxmint.com)
-   * [MX Linux](https://mxlinux.org)
-   * [Manjaro](https://manjaro.org)
-   * [Ubuntu](https://ubuntu.com)
    * [Others](https://distrowatch.com)
 
 ## GitHub alternatives (code hosting platforms):<div id="code_hosting_platforms">
