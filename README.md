@@ -15,13 +15,14 @@ Services listed here generally respect your privacy unless stated otherwise.
 * :mailbox: [Email providers](#email_providers)
 * :phone: [Messengers](#messengers)
 * :mega: [Social media](#social_media)
+* :book: [Reading](#reading)
 * あ [Translators](#translators)
 * :bookmark: [Browsers](#browsers)
 * :arrow_double_down: [App stores](#app_stores)
 * :open_file_folder: [File storage services](#file_storage_services)
 * :evergreen_tree: [Maps and navigation](#maps_and_navigation)
 * :floppy_disk: [Operating systems](#operating_systems)
-* :book: [Code hosting platforms](#code_hosting_platforms)
+* :computer: [Code hosting platforms](#code_hosting_platforms)
 * :pencil: [Keyboards](#keyboards)
 
 ## Google alternatives (search engines):<div id="search_engines">
@@ -65,7 +66,7 @@ Services listed here generally respect your privacy unless stated otherwise.
   &emsp;It forces you to make sure your mailbox stays clean, and that's good for your own sake.<br>
   &emsp;But even if you don't do so, sizes like 500 MB are plenty of space for the average user.
 </details>
-  
+
 ## WhatsApp/Discord alternatives (messengers):<div id="messengers">
 
 &emsp;All these services are open-source.
@@ -89,12 +90,18 @@ Services listed here generally respect your privacy unless stated otherwise.
   
 * [Session](https://getsession.org)
 
-## Facebook alternatives (social media):<div id="social_media">
+## Facebook/Snapchat/Instagram/Twitter alternatives (social media):<div id="social_media">
 
 &emsp;All these services are open-source.
 
 * [Mastodon](https://joinmastodon.org)
-* [Minds](https://www.minds.com) 
+* [Minds](https://www.minds.com)
+
+## Reddit alternatives (reading):<div id="reading">
+
+* [Hacker News](https://news.ycombinator.com/)
+* [Phoronix](https://www.phoronix.com/)
+* [Lobsters](https://lobste.rs/)
 
 ## Google Translate alternatives (translators):<div id="translators">
 
