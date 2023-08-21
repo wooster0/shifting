@@ -116,6 +116,7 @@ Services listed here generally respect your privacy unless stated otherwise.
 * [Tor Browser](https://www.torproject.org) (Firefox-based)
 * [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) (for mobile, Chromium-based)
 * [Brave](https://brave.com) (Chromium-based)
+* [Arc](https://arc.net) (macOS/iOS only - Windows version expected to be released NET Dec 2023, Chromium-based)
 * [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) (Chromium-based)
 
 ## Google Play alternatives (app stores):<div id="app_stores">
